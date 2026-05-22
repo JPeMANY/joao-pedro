@@ -22,7 +22,7 @@ Criar uma presença online profissional para apresentar meu trabalho como desenv
 
 ## 📸 Preview
 
-....
+![Homepage](./assets/screenshot-homepage.png)
 
 ## 📚 Aprendizados
 
